@@ -1,7 +1,7 @@
 Date,Product,Category,Price,Quantity,Customer
-2025-01-01,Phone,Electronics,500,2,John Doe
-2025-01-03,Laptop,Electronics,1200,1,Jane Smith
-2025-01-04,Headphones,Accessories,150,3,Alice Johnson
-2025-01-06,Phone,Electronics,500,1,Robert Brown
-2025-01-08,Mouse,Accessories,50,2,Emma Davis
-2025-01-10,Laptop,Electronics,1200,2,Olivia Wilson
+1/1/2025,Phone,Electronics,500,2,John Doe
+1/3/2025,Laptop,Electronics,1200,1,Jane Smith
+1/4/2025,Headphones,Accessories,150,3,Alice Johnson
+1/6/2025,Phone,Electronics,500,1,Robert Brown
+1/8/2025,Mouse,Accessories,50,2,Emma Davis
+1/10/2025,Laptop,Electronics,1200,2,Olivia Wilson
